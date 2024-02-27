@@ -1,13 +1,12 @@
 {
-	"name": "svelte-use",
+	"name": "svelte-collection",
 	"author": {
 		"name": "Isaac Finkelstein",
 		"email": "hi@alufdevs.com",
-		"url": "https://alufdevs.com"
+		"url": "https://alufdevs.com/svelte-collection"
 	},
 	"description": "A colelction of useful utilities for use in svelte projects",
 	"version": "0.0.1",
-	"private": true,
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
